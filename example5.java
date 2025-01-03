@@ -5,7 +5,7 @@ class example5{
 
         if(userid=="prasunamba" && password=="prasunamba@001"){
 
-            System.out.println("HAPPY NEW YEAR 2025");
+            System.out.println("HELLO PRASUNAMBA WELLCOME TO MALLAREDDY UNIVERSITY ");
 
         }
 
