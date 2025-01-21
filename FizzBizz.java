@@ -12,7 +12,6 @@ public class FizzBizz {
             return String.valueOf(num);
         }
     }   
-
     public static void main(String[] args) {
         System.out.println(getFizzBizz(49));  
         System.out.println(getFizzBizz(85));   
