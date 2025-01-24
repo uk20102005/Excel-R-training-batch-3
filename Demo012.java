@@ -1,6 +1,6 @@
 class CircleAreaDemo1 {
 
-    void Area() {
+    void Area(){
 
         int r =10;
 
