@@ -1,5 +1,5 @@
 class SwapDemo {
-    void swapnumbers() {
+    void swapnumbers(){
         int a = 400, b = 600;
         System.out.println("Before Swap a = " + a + " b = " + b);
         int temp = a;
