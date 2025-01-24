@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Demo021{
 
     public static double calculateTax(double monthlyGrossSalary, double hra, double pf) {
