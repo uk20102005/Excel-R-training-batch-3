@@ -1,5 +1,5 @@
 import java.util.*;
-public class example8{
+public class Demo009{
    public void accpet_details(){
     String Customer_name = "sathi";
     long Account_number = "123456789";
