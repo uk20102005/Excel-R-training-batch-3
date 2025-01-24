@@ -1,4 +1,4 @@
-public class Demo019 {
+public class Demo019{
     public static void main(String[] args) {
         int number = 42; // Example number
 
