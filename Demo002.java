@@ -1,5 +1,5 @@
 
-class example1{
+class Demo002{
     public static void main(String[] args){
        
         int num1=10;
