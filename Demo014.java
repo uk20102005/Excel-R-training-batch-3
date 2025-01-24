@@ -1,5 +1,5 @@
 class UnaryDemo {
-    void UnaryOp() {
+    void UnaryOp(){
 		int a = 10, b = 5;
 		System.out.println(a++);
 		System.out.println(++a);
